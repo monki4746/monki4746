@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome my github profile!
 ![header](https://capsule-render.vercel.app/api?type=waving&color=28A0FF&height=200&section=header&text=Onki%20Kim&fontSize=90)
 
 ### Statistics
@@ -23,3 +25,10 @@ Here are some ideas to get you started:
 ### Education
 <p> 2020 ~ : Computer Science at Dongseo University.</p>
 2022 ~ : AI Engineering at Dongseo University.
+
+### Career
+Complete the Java Instructor Training Program
+Complete the Python Instructor Training Program
+Complete the short-term instructor training program
+
+### 
