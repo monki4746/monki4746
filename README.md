@@ -27,8 +27,8 @@ Welcome my github profile!
 2022 ~ : AI Engineering at Dongseo University.
 
 ### Career
-Complete the Java Instructor Training Program
-Complete the Python Instructor Training Program
-Complete the short-term instructor training program
+<p>Complete the Java Instructor Training Program.</p>
+<p>Complete the Python Instructor Training Program.</p>
+<p></p>Complete the short-term instructor training program.</p>
 
 ### 
