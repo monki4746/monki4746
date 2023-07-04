@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 ### Education
 <p> 2020 ~ : Computer Science at Dongseo University.</p>
-2020 ~ : AI Engineering at Dongseo University.
+2022 ~ : AI Engineering at Dongseo University.
