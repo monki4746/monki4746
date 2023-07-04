@@ -9,14 +9,14 @@ Used at the main
 		<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
 		<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />
-		<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+		<img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white"> 
 	</a>
 </p>
 
 Used at least once
 <p>
 	<a>
-		<img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+		<img src="https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white">
 		<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
 	</a>
