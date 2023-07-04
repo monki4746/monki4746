@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monki4746)](https://github.com/monki4746/github-readme-stats)
 
 ### Education
-2020 ~ : Computer Science at Dongseo University.
+<p> 2020 ~ : Computer Science at Dongseo University.</p>
 2020 ~ : AI Engineering at Dongseo University.
