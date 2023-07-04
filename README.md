@@ -15,8 +15,10 @@ Welcome my github profile!
 ---
 			
 ### Statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monki4746)](https://github.com/monki4746/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monki4746)](https://github.com/monki4746/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=monki4746&show_icons=true&theme=dracula" height="160px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monki4746&layout=compact&theme=dracula" height="160px" />
+</a>
 
 ---
 
