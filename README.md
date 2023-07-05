@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=28A0FF&height=200&section=header&text=Onki%20Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=28A0FF&height=200&section=header&text=Onki's%20Github&fontSize=90)
 
 Used at the main
 <p>
