@@ -8,7 +8,7 @@ Used at the main
 		<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />
 		<img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white"> 
-		<img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=aws&logoColor=white">
+		<img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat&logo=Adobe Premiere Pro&logoColor=white"/>
 	</a>
 </p>
 
