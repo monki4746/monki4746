@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=28A0FF&height=200&section=header&text=Onki's%20Github&fontSize=90)
 
+<div align="center"> 
 ### :books: Tech Stack :books:
 Used at the main
 <p>
@@ -21,6 +22,8 @@ Used at least once
 		<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
 	</a>
 </p>
+
+</div>
 
 			
 ### Statistics
