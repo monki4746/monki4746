@@ -38,8 +38,8 @@ Used at least once
 
 ### Career
 ---
- <p>2022.09.20: Completed short-term training courses for SW teacher instructors </p> 
- <p>2023.03.31: Completed the sw teacher training (Java) curriculum <br>
+ 2022.09.20: Completed short-term training courses for SW teacher instructors <br> 
+ 2023.03.31: Completed the sw teacher training (Java) curriculum <br>
  2023.03.31: Completed the sw teacher training (Python) curriculum
 
 
