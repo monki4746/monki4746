@@ -34,9 +34,9 @@ Used at least once
 
 
 ### Career
-- Complete the Java Instructor Training Program.
-- Complete the Python Instructor Training Program.
-- Complete the short-term instructor training program.
+- Completed short-term training courses for SW teacher instructors
+- Completed the sw teacher training (Java) curriculum
+- Completed the sw teacher training (Python) curriculum
 
 
 ### 
