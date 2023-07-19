@@ -37,8 +37,8 @@ Used at least once
 
 
 ### Career
- Completed short-term training courses for SW teacher instructors
- Completed the sw teacher training (Java) curriculum
+ <p>Completed short-term training courses for SW teacher instructors </p> 
+ <p>Completed the sw teacher training (Java) curriculum</p>
  Completed the sw teacher training (Python) curriculum
 
 
