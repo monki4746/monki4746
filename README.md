@@ -24,15 +24,13 @@ Used at least once
 	</a>
 </p>
 
-</div>
-
-### Statistics
 | <a href="https://github.com/monki4746/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=monki4746&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/monki4746/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monki4746&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+</div>
 
 ### Education
------
+---
 2020 ~ : Computer Science at Dongseo University.
 
 2022 ~ : AI Engineering at Dongseo University.
@@ -41,7 +39,7 @@ Used at least once
 ### Career
 ---
  <p>2022.09.20: Completed short-term training courses for SW teacher instructors </p> 
- <p>2023.03.31: Completed the sw teacher training (Java) curriculum</p>
+ <p>2023.03.31: Completed the sw teacher training (Java) curriculum <br>
  2023.03.31: Completed the sw teacher training (Python) curriculum
 
 
