@@ -3,7 +3,7 @@
 <div align="center"> 
 	
 ### :books: Tech Stack :books:
-Used at the main
+🐳 Used at the main 🐳
 <p>
 	<a>
 		<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
@@ -15,7 +15,7 @@ Used at the main
 	</a>
 </p>
 
-Used at least once
+🌊 Used at least once 🌊
 <p>
 	<a>
 		<img src="https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white">
