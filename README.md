@@ -37,10 +37,13 @@ Used at least once
 
 
 ### Career
+<div style="display:flex; flex-direction:row;">
 ---
  2022.09.20: Completed short-term training courses for SW teacher instructors <br> 
  2023.03.31: Completed the sw teacher training (Java) curriculum <br>
  2023.03.31: Completed the sw teacher training (Python) curriculum
+
+ </div>
 
 
 ### 
