@@ -29,14 +29,14 @@ Used at least once
 
 </div>
 
-### Education <br>
+### Education
 ---
-2020 ~ : Computer Science at Dongseo University.
+##### 2020 ~ : Computer Science at Dongseo University.
 
-2022 ~ : AI Engineering at Dongseo University.
+##### 2022 ~ : AI Engineering at Dongseo University.
 
 
-### Career <br>
+### Career
 ---
  2022.09.20: Completed short-term training courses for SW teacher instructors <br> 
  2023.03.31: Completed the sw teacher training (Java) curriculum <br>
