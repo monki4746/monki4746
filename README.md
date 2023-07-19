@@ -30,7 +30,7 @@ Used at least once
 </div>
 
 ### Education
-|----|---------------------:|:--------------------|:---------------------:
+---------------------------
 ##### 2020 ~ : Computer Science at Dongseo University.
 
 ##### 2022 ~ : AI Engineering at Dongseo University.
