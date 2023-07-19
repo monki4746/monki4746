@@ -4,7 +4,7 @@
 	
 ### :books: Tech Stack :books:
 
-🐳 #### Used at the main 🐳
+#### 🐳 Used at the main 🐳
 <p>
 	<a>
 		<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
@@ -16,7 +16,7 @@
 	</a>
 </p>
 
-🌊 #### Used at least once 🌊
+#### 🌊 Used at least once 🌊
 <p>
 	<a>
 		<img src="https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white">
@@ -44,6 +44,7 @@
 ##### 2022.09.20: Completed short-term training courses for SW teacher instructors <br> 
 ##### 2023.03.31: Completed the sw teacher training (Java) curriculum <br>
 ##### 2023.03.31: Completed the sw teacher training (Python) curriculum
+##### 2022 ESG Festival Ideaton Excellence Award
 
 
 ### 
