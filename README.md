@@ -33,6 +33,7 @@
 </div>
 
 ### Education
+
 ***
 ##### 2020 ~ : Computer Science at Dongseo University.
 
@@ -40,6 +41,7 @@
 
 
 ### Career 
+
 ---
 ##### 2022.09.20: Completed short-term training courses for SW teacher instructors <br> 
 ##### 2023.03.31: Completed the sw teacher training (Java) curriculum <br>
