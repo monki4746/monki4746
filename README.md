@@ -30,7 +30,7 @@
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/monki4746"
-  width="1000"
+  width="1100"
   height="300"
 />
 </a>
